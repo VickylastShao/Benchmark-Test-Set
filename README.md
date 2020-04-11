@@ -1,8 +1,8 @@
 # Benchmark-Test-Set
 
-5 Unit Generator Coefficients.xlsx and 5 Unit B Matrix.xlsx are the configurations for 5 unit system  
+5_Unit_Generator_Coefficients.xlsx and 5_Unit_B_Matrix.xlsx are the configurations for 5 unit system  
 
-10 Unit Generator Coefficients.xlsx and 10 Unit B Matrix.xlsx are the configurations for 5 unit system  
+10_Unit_Generator_Coefficients.xlsx and 10_Unit_B_Matrix.xlsx are the configurations for 5 unit system  
 
 BTS_5_unit_system.xlsx and BTS_10_unit_system.xlsx contain the Benchmark Test Set for 5 unit system and 10 unit system respectively  
 
